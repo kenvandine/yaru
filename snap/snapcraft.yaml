@@ -1,5 +1,5 @@
 name: communitheme
-version: '0.1'
+version: git
 architectures: [all]
 summary: The next Ubuntu theme built by the community.
 description: |
